@@ -124,7 +124,7 @@ $ java -jar sAINT.jar
 To uninstall run <a href="https://github.com/tiagorlampert/sAINT/blob/master/content/UNINSTALL.bat">UNINSTALL.bat</a> with administrative permissions.
 
 ## Contact
-:email: **tiagorlampert@gmail.com**
+:email: **olegdargas@gmail.com**
 
 ## License
 
